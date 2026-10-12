@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "rows": [
+      "Chris Hemsworth",
+      "Tadanobu Asano",
+      "Idris Elba"
+    ],
+    "columns": [
+      "Kenneth Branagh",
+      "Bilim-Kurgu",
+      "Aksiyon"
+    ]
+  },
+  {
+    "id": 2,
+    "rows": [
+      "Mark Ruffalo",
+      "Gwyneth Paltrow",
+      "Josh Brolin"
+    ],
+    "columns": [
+      "Gerilim",
+      "Gizem",
+      "Chris Hemsworth"
+    ]
+  },
+  {
+    "id": 3,
+    "rows": [
+      "Gwyneth Paltrow",
+      "Samuel L. Jackson",
+      "Brie Larson"
+    ],
+    "columns": [
+      "Robert Downey Jr.",
+      "Suç",
+      "Mark Ruffalo"
+    ]
+  },
+  {
+    "id": 4,
+    "rows": [
+      "Matthew Macfadyen",
+      "Wunmi Mosaku",
+      "Ryan Reynolds"
+    ],
+    "columns": [
+      "Morena Baccarin",
+      "Komedi",
+      "Bilim-Kurgu"
+    ]
+  },
+  {
+    "id": 5,
+    "rows": [
+      "Ridley Scott",
+      "Sigourney Weaver",
+      "Ian McKellen"
+    ],
+    "columns": [
+      "Ian Holm",
+      "Pedro Pascal",
+      "Macera"
+    ]
+  },
+  {
+    "id": 6,
+    "rows": [
+      "Karen Gillan",
+      "Paul Rudd",
+      "Josh Brolin"
+    ],
+    "columns": [
+      "Chris Evans",
+      "Korku",
+      "Macera"
+    ]
+  },
+  {
+    "id": 7,
+    "rows": [
+      "Keith David",
+      "Brie Larson",
+      "Paul Rudd"
+    ],
+    "columns": [
+      "Bilim-Kurgu",
+      "Animasyon",
+      "Mark Ruffalo"
+    ]
+  },
+  {
+    "id": 8,
+    "rows": [
+      "Johnny Depp",
+      "Michael Caine",
+      "John Lithgow"
+    ],
+    "columns": [
+      "Anne Hathaway",
+      "Dram",
+      "Animasyon"
+    ]
+  },
+  {
+    "id": 9,
+    "rows": [
+      "Brendan Gleeson",
+      "Gary Oldman",
+      "Shirley Henderson"
+    ],
+    "columns": [
+      "Daniel Radcliffe",
+      "Bilim-Kurgu",
+      "Alan Rickman"
+    ]
+  },
+  {
+    "id": 10,
+    "rows": [
+      "Cate Blanchett",
+      "Ian McKellen",
+      "Benedict Cumberbatch"
+    ],
+    "columns": [
+      "Orlando Bloom",
+      "Chris Hemsworth",
+      "Tom Hiddleston"
+    ]
+  },
+  {
+    "id": 11,
+    "rows": [
+      "Sebastian Stan",
+      "Paul Rudd",
+      "Matt Damon"
+    ],
+    "columns": [
+      "Michael Peña",
+      "Don Cheadle",
+      "Robert Downey Jr."
+    ]
+  },
+  {
+    "id": 12,
+    "rows": [
+      "Florence Pugh",
+      "Robert Downey Jr.",
+      "Chris Hemsworth"
+    ],
+    "columns": [
+      "Chris Evans",
+      "Pedro Pascal",
+      "Paul Rudd"
+    ]
+  },
+  {
+    "id": 13,
+    "rows": [
+      "Tom Holland",
+      "Donald Glover",
+      "Alfred Molina"
+    ],
+    "columns": [
+      "Bilim-Kurgu",
+      "Fantastik",
+      "Zendaya"
+    ]
+  },
+  {
+    "id": 14,
+    "rows": [
+      "Rupert Friend",
+      "Henry Cavill",
+      "Matthew Macfadyen"
+    ],
+    "columns": [
+      "Rosamund Pike",
+      "Bilim-Kurgu",
+      "Aksiyon"
+    ]
+  },
+  {
+    "id": 15,
+    "rows": [
+      "Chris Evans",
+      "Ray Stevenson",
+      "David Bailie"
+    ],
+    "columns": [
+      "Stellan Skarsgård",
+      "Fantastik",
+      "Macera"
+    ]
+  },
+  {
+    "id": 16,
+    "rows": [
+      "Josh Hutcherson",
+      "Sahajak Boonthanakit",
+      "Tony Revolori"
+    ],
+    "columns": [
+      "Aksiyon",
+      "Suç",
+      "Korku"
+    ]
+  },
+  {
+    "id": 17,
+    "rows": [
+      "Scarlett Johansson",
+      "Chadwick Boseman",
+      "Ian McKellen"
+    ],
+    "columns": [
+      "Paul Rudd",
+      "Andy Serkis",
+      "Chris Hemsworth"
+    ]
+  },
+  {
+    "id": 18,
+    "rows": [
+      "Alan Tudyk",
+      "Idris Elba",
+      "J.K. Simmons"
+    ],
+    "columns": [
+      "Rich Moore",
+      "Fantastik",
+      "Bilim-Kurgu"
+    ]
+  },
+  {
+    "id": 19,
+    "rows": [
+      "Zendaya",
+      "Anya Taylor-Joy",
+      "Glen Powell"
+    ],
+    "columns": [
+      "Romantik",
+      "Donald Glover",
+      "Komedi"
+    ]
+  },
+  {
+    "id": 20,
+    "rows": [
+      "Richard Griffiths",
+      "Alan Rickman",
+      "Timothy Spall"
+    ],
+    "columns": [
+      "Johnny Depp",
+      "Helena Bonham Carter",
+      "Tom Felton"
+    ]
+  },
+  {
+    "id": 21,
+    "rows": [
+      "John Leguizamo",
+      "Will Arnett",
+      "Josh Gad"
+    ],
+    "columns": [
+      "Denis Leary",
+      "Komedi",
+      "Fantastik"
+    ]
+  },
+  {
+    "id": 22,
+    "rows": [
+      "Brie Larson",
+      "Anthony Russo",
+      "Tom Hiddleston"
+    ],
+    "columns": [
+      "Aksiyon",
+      "Don Cheadle",
+      "Karen Gillan"
+    ]
+  },
+  {
+    "id": 23,
+    "rows": [
+      "J.K. Simmons",
+      "Brad William Henke",
+      "Mark Ruffalo"
+    ],
+    "columns": [
+      "Bilim-Kurgu",
+      "Idris Elba",
+      "Jon Bernthal"
+    ]
+  },
+  {
+    "id": 24,
+    "rows": [
+      "Christian Convery",
+      "Celeste O'Connor",
+      "Jasmin Savoy Brown"
+    ],
+    "columns": [
+      "Komedi",
+      "Korku",
+      "Gizem"
+    ]
+  },
+  {
+    "id": 25,
+    "rows": [
+      "Alan Rickman",
+      "Evanna Lynch",
+      "David Yates"
+    ],
+    "columns": [
+      "Ralph Fiennes",
+      "Rupert Grint",
+      "Robbie Coltrane"
+    ]
+  },
+  {
+    "id": 26,
+    "rows": [
+      "Sebastian Stan",
+      "Gwyneth Paltrow",
+      "Brie Larson"
+    ],
+    "columns": [
+      "Scarlett Johansson",
+      "Donald Glover",
+      "Robert Downey Jr."
+    ]
+  },
+  {
+    "id": 27,
+    "rows": [
+      "Giovanni Ribisi",
+      "Bonnie Hunt",
+      "Robin Wright"
+    ],
+    "columns": [
+      "Dram",
+      "Macera",
+      "Tom Hanks"
+    ]
+  },
+  {
+    "id": 28,
+    "rows": [
+      "Mark Ruffalo",
+      "Josh Brolin",
+      "Jon Bernthal"
+    ],
+    "columns": [
+      "Gerilim",
+      "Zendaya",
+      "Florence Pugh"
+    ]
+  },
+  {
+    "id": 29,
+    "rows": [
+      "Casey Affleck",
+      "Christopher Nolan",
+      "Matt Damon"
+    ],
+    "columns": [
+      "David Dastmalchian",
+      "Michael Caine",
+      "Gerilim"
+    ]
+  },
+  {
+    "id": 30,
+    "rows": [
+      "Idris Elba",
+      "Jaimie Alexander",
+      "Rene Russo"
+    ],
+    "columns": [
+      "Kenneth Branagh",
+      "Aksiyon",
+      "Chris Hemsworth"
+    ]
+  },
+  {
+    "id": 31,
+    "rows": [
+      "Anthony Mackie",
+      "Stellan Skarsgård",
+      "Christoph Waltz"
+    ],
+    "columns": [
+      "Gerilim",
+      "Samuel L. Jackson",
+      "Dram"
+    ]
+  },
+  {
+    "id": 32,
+    "rows": [
+      "Phil LaMarr",
+      "Tessa Thompson",
+      "Brie Larson"
+    ],
+    "columns": [
+      "Samuel L. Jackson",
+      "Komedi",
+      "Bilim-Kurgu"
+    ]
+  },
+  {
+    "id": 33,
+    "rows": [
+      "Tom Hiddleston",
+      "Paul Rudd",
+      "Chris Hemsworth"
+    ],
+    "columns": [
+      "Komedi",
+      "Josh Brolin",
+      "Pedro Pascal"
+    ]
+  },
+  {
+    "id": 34,
+    "rows": [
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Christopher Eccleston"
+    ],
+    "columns": [
+      "Stellan Skarsgård",
+      "Bilim-Kurgu",
+      "Idris Elba"
+    ]
+  },
+  {
+    "id": 35,
+    "rows": [
+      "Benedict Cumberbatch",
+      "Karen Gillan",
+      "Mark Ruffalo"
+    ],
+    "columns": [
+      "Don Cheadle",
+      "Chris Hemsworth",
+      "Idris Elba"
+    ]
+  },
+  {
+    "id": 36,
+    "rows": [
+      "Robert Pattinson",
+      "Helena Bonham Carter",
+      "Johnny Depp"
+    ],
+    "columns": [
+      "Komedi",
+      "Romantik",
+      "Anne Hathaway"
+    ]
+  },
+  {
+    "id": 37,
+    "rows": [
+      "Don Cheadle",
+      "Brie Larson",
+      "Chris Hemsworth"
+    ],
+    "columns": [
+      "Scarlett Johansson",
+      "Josh Brolin",
+      "Suç"
+    ]
+  },
+  {
+    "id": 38,
+    "rows": [
+      "Judy Greer",
+      "Paul Rudd",
+      "Hannah John-Kamen"
+    ],
+    "columns": [
+      "Michael Peña",
+      "David Dastmalchian",
+      "Korku"
+    ]
+  },
+  {
+    "id": 39,
+    "rows": [
+      "Billy Eichner",
+      "Chiwetel Ejiofor",
+      "James Earl Jones"
+    ],
+    "columns": [
+      "Keegan-Michael Key",
+      "Jon Favreau",
+      "Donald Glover"
+    ]
+  },
+  {
+    "id": 40,
+    "rows": [
+      "Anne Hathaway",
+      "Zendaya",
+      "John Leguizamo"
+    ],
+    "columns": [
+      "Tom Holland",
+      "Komedi",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": 41,
+    "rows": [
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Tom Hiddleston"
+    ],
+    "columns": [
+      "Fantastik",
+      "Aksiyon",
+      "Pedro Pascal"
+    ]
+  },
+  {
+    "id": 42,
+    "rows": [
+      "Julianne Moore",
+      "Robert Zemeckis",
+      "Stanley Tucci"
+    ],
+    "columns": [
+      "Dram",
+      "Josh Hutcherson",
+      "Komedi"
+    ]
+  },
+  {
+    "id": 43,
+    "rows": [
+      "Embeth Davidtz",
+      "Marton Csokas",
+      "Marisa Tomei"
+    ],
+    "columns": [
+      "Macera",
+      "Andrew Garfield",
+      "Liam Neeson"
+    ]
+  },
+  {
+    "id": 44,
+    "rows": [
+      "Taika Waititi",
+      "Benedict Cumberbatch",
+      "Anthony Hopkins"
+    ],
+    "columns": [
+      "Mark Ruffalo",
+      "Tadanobu Asano",
+      "Fantastik"
+    ]
+  },
+  {
+    "id": 45,
+    "rows": [
+      "Josh Brolin",
+      "Robert Downey Jr.",
+      "Scarlett Johansson"
+    ],
+    "columns": [
+      "Tom Holland",
+      "Stellan Skarsgård",
+      "Tom Hiddleston"
+    ]
+  },
+  {
+    "id": 46,
+    "rows": [
+      "Matt Damon",
+      "Timothee Chalamet",
+      "Ewan McGregor"
+    ],
+    "columns": [
+      "Stellan Skarsgård",
+      "Anne Hathaway",
+      "Bilim-Kurgu"
+    ]
+  },
+  {
+    "id": 47,
+    "rows": [
+      "Laura Dern",
+      "Issa Rae",
+      "Florence Pugh"
+    ],
+    "columns": [
+      "Bilim-Kurgu",
+      "Greta Gerwig",
+      "Aksiyon"
+    ]
+  },
+  {
+    "id": 48,
+    "rows": [
+      "Hayley Atwell",
+      "Wyatt Russell",
+      "Tom Holland"
+    ],
+    "columns": [
+      "Bilim-Kurgu",
+      "Tom Hiddleston",
+      "Florence Pugh"
+    ]
+  },
+  {
+    "id": 49,
+    "rows": [
+      "Hugo Weaving",
+      "Andy Serkis",
+      "Harrison Ford"
+    ],
+    "columns": [
+      "Gerilim",
+      "Dram",
+      "Liv Tyler"
+    ]
+  },
+  {
+    "id": 50,
+    "rows": [
+      "Nick Offerman",
+      "Simon Pegg",
+      "Alan Tudyk"
+    ],
+    "columns": [
+      "Bilim-Kurgu",
+      "Aksiyon",
+      "John Leguizamo"
+    ]
+  }
+]
